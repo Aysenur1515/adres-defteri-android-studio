@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextAd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:hint="Adınızı ve soyadınızı giriniz."
+        android:maxLength="30"
+        android:inputType="textPersonName"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editTextTel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:maxLength="11"
+        android:hint="Telefon numaranızı giriniz."
+        android:inputType="textPersonName"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+
+
+
+
+</LinearLayout>

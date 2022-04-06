@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Digital Contact</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="login">GİRİŞ</string>
+    <string name="create_new">Kayıt olmak için tıklayın</string>
+    <string name="not_register">Giriş ekranına dönmek içim tıklayın</string>
+    <string name="name">İsim</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="register">KAYIT OL</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="ahmet_05347615731_sevvalgmailcom_guzelce">Ahmet - 05347615731 - sevvalgmailcom - guzelce</string>
+</resources>
